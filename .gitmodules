@@ -1,0 +1,21 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:kuru-project/tamaki-api.git
+[submodule "cli"]
+	path = cli
+	url = git@github.com:kuru-project/tamaki-cli.git
+[submodule "desktop"]
+	path = desktop
+	url = git@github.com:kuru-project/tamaki-desktop.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:kuru-project/tamaki-mobile.git
+[submodule "web"]
+	path = web
+	url = git@github.com:kuru-project/tamaki-web.git
+[submodule "gamify"]
+	path = plugins/gamify
+	url = git@github.com:kuru-project/tamaki-gamify.git
+[submodule "authentication"]
+	path = plugins/authentication
+	url = git@github.com:kuru-project/tamaki-authentication.git
