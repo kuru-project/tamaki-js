@@ -19,3 +19,6 @@
 [submodule "authentication"]
 	path = plugins/authentication
 	url = git@github.com:kuru-project/tamaki-authentication.git
+[submodule "currency"]
+	path = plugins/currency
+	url = git@github.com:kuru-project/tamaki-currency.git
