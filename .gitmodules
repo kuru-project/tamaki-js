@@ -22,3 +22,6 @@
 [submodule "currency"]
 	path = plugins/currency
 	url = git@github.com:kuru-project/tamaki-currency.git
+[submodule "vscode"]
+	path = plugins/vscode
+	url = git@github.com:kuru-project/tamaki-vscode.git
